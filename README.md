@@ -1,3 +1,4 @@
-# Monitoring System
+# Monitoring System Mobile Application
 
-This is my Portfolio
+This is my Portfolio for MAD101
+Monitoring System Mobile Application
