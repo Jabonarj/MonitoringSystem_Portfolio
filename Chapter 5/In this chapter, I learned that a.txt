@@ -1,0 +1,1 @@
+In this chapter, I learned that a widget tree organizes app elements like buttons and texts, showing how they connect.

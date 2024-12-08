@@ -1,0 +1,1 @@
+In this chapter, I used common simple widget like text and button.
